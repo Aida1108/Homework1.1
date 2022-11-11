@@ -19,5 +19,6 @@ public class Main {
         paper = paper - 7639;
         System.out.println(paper);
 
+
     }
 }
