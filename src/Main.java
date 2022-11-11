@@ -38,6 +38,10 @@ public class Main {
         System.out.println("Oбщий вес двух бойцов " + sumBoxer + " кг");
         var differenceBoxer = twoBoxer - oneBoxer;
         System.out.println("Разницу между весами бойцов " + differenceBoxer + " кг");
+        var subtractionBoxer = twoBoxer - oneBoxer;
+        System.out.println("Вычитание из большего веса меньшего " + subtractionBoxer + " кг");
+        var remainsBpxer = twoBoxer % oneBoxer;
+        System.out.println("Используя функцию остаток от деления " + remainsBpxer + " кг");
 
 
 
